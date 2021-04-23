@@ -11,7 +11,7 @@ title                    : "J.D. Moffitt"
 title_separator          : "-"
 name                     : &name "J.D. Moffitt"
 description              : &description "Societal Computing PhD Student, Carnegie Mellon University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jdmoffit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://jdmoffit.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "J.D. Moffitt"
-  avatar           : "Moffitt_SC.jpeg"
+  avatar           : "Moffitt_SC.png"
   bio              : "Societal Computing PhD Student, Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   employer         :
